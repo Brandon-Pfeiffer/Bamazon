@@ -1,10 +1,10 @@
-# Bamazon
+#Bamazon
 
-##An Amazon-like storefront powered by MySQL
+#An Amazon-like storefront powered by MySQL
 
-###Functionality 
+#Functionality 
 
-! [BC](/ReadMePics/Pic1.png)
+![BC](/ReadMePics/Pic1.png)
 
-! [BC](/ReadMePics/Pic2.png)
+![BC](/ReadMePics/Pic2.png)
 
