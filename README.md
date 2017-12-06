@@ -2,7 +2,7 @@
 
 ## An Amazon-like storefront powered by MySQL
 
-#**Functionality** 
+### Functionality
 
 ![BC](/ReadMePics/Pic1.png)
 
